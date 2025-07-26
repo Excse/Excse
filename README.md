@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=excse&label=Profile%20views&color=0e75b6&style=flat" alt="excse" />
 </p>
 
-- 🔭 I’m currently working on [Arkoi Language](https://github.com/arkoisystems/arkoi_language), [Pretty Diagnostics](https://github.com/Excse/pretty_diagnostics)
+- 🔭 I’m currently working on [Arkoi Language](https://github.com/arkoisystems/arkoi_language), [Pretty Diagnostics](https://github.com/Excse/pretty_diagnostics), [Arkoi OS](https://github.com/ArkoiSystems/arkoi_os), [Arkoi Blog](https://github.com/ArkoiSystems/arkoi_blog)
 - 🌱 I’m currently learning **Compiler Development**
 - 💬 Ask me about **C++, Java, Rust, Python**
 
